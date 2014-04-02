@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /femaregions
+permalink: /
 layout: default
 filename: femaregions.md
 title: FEMA Regions
